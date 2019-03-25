@@ -1,0 +1,8 @@
+# render "comment"
+# render "comment.json.jb"
+# render "comments/comment"
+# render "comments/comment.json.jb"
+# render partial: "comment"
+# render partial: "comment.json.jb"
+# render partial: "comments/comment"
+render partial: "comments/comment.json.jb"
